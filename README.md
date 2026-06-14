@@ -2,6 +2,13 @@
 
 Homebrew casks for apps and tools by Maarten Goet.
 
+## Refine
+
+```sh
+brew tap maartengoet/tap
+brew install --cask refine
+```
+
 ## Spotlite
 
 ```sh
